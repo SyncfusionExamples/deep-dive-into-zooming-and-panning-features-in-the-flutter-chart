@@ -1,16 +1,19 @@
-# myflutterapp
+# Deep Dive into Zooming and Panning Features in the Flutter Chart
 
-A new Flutter project.
+A quick-start example to help you perform zooming and panning in the Syncfusion Flutter Chart. You will learn how to enable pinch zooming, double tap zooming, selection zooming, customize the selection rectangle, enable panning, and setting zoom mode. Also, you will learn how to enable mouse wheel zooming and set the maximum Zoom Level in the Syncfusion Flutter Chart widget.
 
-## Getting Started
+Watch the video: Coming soon...
 
-This project is a starting point for a Flutter application.
+Documentation: https://help.syncfusion.com/flutter/cartesian-charts/zoom-pan 
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements to run the demo
+* [VS Code](https://code.visualstudio.com/download)
+* [Flutter SDK v2.0.0+](https://flutter.dev/docs/development/tools/sdk/overview)
+* [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## How to run this application
+To run this application, you need to first clone or download the ‘deep dive into zooming and panning features in the flutter chart’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Further help
+For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview), or
+ [Flutter documentation](https://flutter.dev/docs/get-started/install).
